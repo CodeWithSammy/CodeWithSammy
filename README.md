@@ -1,7 +1,7 @@
 <h1 align="center">Hi I am Tech Sammy aka Samuel Rodrigues </h1>
 
 
-<a href="https://app.daily.dev/mohak_bajaj"><img align="right" src="https://api.daily.dev/devcards/f0ffe1d996b04666a6d8bfc710889859.png?r=xye" width="400" alt="Mohak Bajaj's Dev Card"/></a>
+
 ## ✒️Bio
 - 🔭 I’m currently working on **Web Dev Projects** with **React,Php**
 
