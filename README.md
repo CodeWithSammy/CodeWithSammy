@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html,Css,Javascript**
 
-- 📫 How to reach me **mrsam03102002@gmail.com**
+- 📫 How to reach me **[www.instagram.com/tech_sammy/](https://www.instagram.com/tech_sammy/)**
 
 <h3 align="left">🌐SOCIALS:</h3>
 <p align="left">
