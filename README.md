@@ -42,12 +42,9 @@
 </td><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSammy&theme=darcula&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-  
-  <div align="center"><img src="(https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSammy&theme=darcula&hide_border=true" align="center" style="width: 100%" /></div>
-
 </td></tr></table>
  
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSammy&theme=darcula&hide_border=true)<br/>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=techsammy2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
