@@ -76,7 +76,7 @@ research_profile = {
 <img src="https://skillicons.dev/icons?i=nodejs,aws,gcp,firebase,vercel,python&theme=dark&perline=8" />
 
 ### 🗄️ **Database & Tools**
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,github,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode&theme=dark&perline=8" />
 
 </div>
 
