@@ -70,7 +70,7 @@ research_profile = {
 <div align="center">
 
 ### 🎨 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,reactjs,nextjstailwind,sass,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,next,tailwind,sass,figma&theme=dark&perline=8" />
 
 ### ⚡ **Backend & Cloud**
 <img src="https://skillicons.dev/icons?i=nodejs,aws,gcp,firebase,vercel,python&theme=dark&perline=8" />
